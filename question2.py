@@ -4,8 +4,8 @@ import sqlite3
 
 from pyrogram import filters, Client
 
-bot_ = Client("Question_Bot___", api_id=13016641, api_hash="a8385d296e8b826994bee14b83cf988b",
-              bot_token="5971385447:AAF9rUbCGYGb7Ff3QFDdtjpfs9Wk7C7ifGo")
+bot_ = Client("Question_Bot___", api_id=000000, api_hash="",
+              bot_token="")
 
 folder_path = {'/starttestaz': ['Az-Dili', 'Az-Dili Cavablar', 'Az_Dili'],
                '/starttestmath': ['Math', 'Math Cavablar', 'Math'],
